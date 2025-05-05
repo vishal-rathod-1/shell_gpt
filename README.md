@@ -103,6 +103,9 @@ sgpt --shell "smbclient command to enumerate shares"
 - Switch models with --model gpt-3.5-turbo or --model gpt-4.
 
 ---
+## Refernce
+Jailbreaks prompt for chatgpt 
+https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
 
 ## 📌 Summary
 
